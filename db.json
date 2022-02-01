@@ -4,25 +4,19 @@
       "id": 1,
       "text": "Doctors Appoint",
       "day": "Jan 31th at 2.32pm",
-      "reminder":true
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Library",
       "day": "Feb 3th at 2.32pm",
-      "reminder":true
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Medical",
       "day": "Jan 31th at 2.32pm",
-      "reminder":false
-    },
-    {
-      "id": 4,
-      "text": "Medi",
-      "day": "Jan 31th at 2.32pm",
-      "reminder":false
+      "reminder": false
     }
   ]
 }
